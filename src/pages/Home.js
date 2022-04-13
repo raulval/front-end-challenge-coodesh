@@ -19,7 +19,7 @@ const Home = () => {
       <div className="search container is-max-desktop mt-6">
         <Search />
       </div>
-      <div className="table container is-max-desktop is-flex is-justify-content-center is-align-items-center mt-6">
+      <div className="table container is-max-desktop is-centered mt-6">
         <Table />
       </div>
     </div>
